@@ -1,0 +1,37 @@
+h1, h2, h3, h4 {
+    border-width: 1px 2px 3px 4px;
+    border-style: solid;
+    border-color: red blue darkcyan brown;
+    background-color: aqua;
+}
+
+p {
+    border-width: 2px 3px 4px 5px;
+    border-style: dotted solid double dashed;
+    border-color: red blue darkcyan brown;
+    background-color: blueviolet;
+}
+
+/* Here, we change text colour , text align , font size*/
+.styleclass1 {
+    color: red;
+}
+
+.styleclass2 {
+    text-align: center;
+}
+
+.styleclass3 {
+
+    font-size: 20px;
+}
+
+#styeid1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
+
+#styeid2 {
+    font-weight: bold;
+    color: violet;  
+}
